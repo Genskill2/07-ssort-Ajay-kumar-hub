@@ -15,10 +15,10 @@ void swap_max(int arr[], int i, int pos)
   arr[index]=arr[pos];
   arr[pos]=temp;
   }
-  void ssort(int arr(int arr[], int 1)
+  void ssort(int arr[], int 1)
   {
   for(int i=0;i<1-1;i++)
   {
   swap_max(arr,1,i);
   }
-  }
+ }
